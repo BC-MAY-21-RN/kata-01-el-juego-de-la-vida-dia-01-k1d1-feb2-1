@@ -1,0 +1,20 @@
+{
+  "name": "kata-01-el-juego-de-la-vida-dia-01-k1d1-feb2-1",
+  "version": "1.0.0",
+  "description": "![BrightCoders Logo](img/logo-bc.png)",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k1d1-feb2-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k1d1-feb2-1/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k1d1-feb2-1#readme"
+}
